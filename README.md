@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 2D Detection
 
 
@@ -30,20 +29,3 @@
    
    
    
-   
-
-
-
-
-
-
-
-
-# 3D Vision
-
-​     
-
-=======
-# 2D-3D-Object-Detection
-Some related Paper and Code for 2D or 3D Object Detection
->>>>>>> d6ecc238d9b4d02a9da48d57864243b20dae8172

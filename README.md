@@ -20,8 +20,11 @@
 2. [3DSSD: Point-based 3D Single Stage Object Detector](https://arxiv.org/abs/2002.10187) (CVPR2020) [Code](https://github.com/Jia-Research-Lab/3DSSD)
 
 ### Point Cloud + Image
-1. EPNet:Enhancing Point Features with Image Semantics for 3D Object Detection.(ECCV 2020) [Code](https://github.com/happinesslz/EPNet)
+1. [EPNet:Enhancing Point Features with Image Semantics for 3D Object Detection.](https://arxiv.org/pdf/2007.08856.pdf)(ECCV 2020)[Code](https://github.com/happinesslz/EPNet)
+
 2. [3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection.](https://arxiv.org/pdf/2004.12636.pdf) (ECCV 2020) [Code](https://github.com/rasd3/3D-CVF)
+
+   
 
 ## 2. 3D Detection Toolboxs
 1. [Det3D](https://github.com/poodarchu/Det3D)
